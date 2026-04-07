@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+twilio
+deepgram-sdk
+openai
+websockets
+requests
+aiohttp
